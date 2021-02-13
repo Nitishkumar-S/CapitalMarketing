@@ -1,0 +1,2 @@
+# CapitalMarketing
+mysql queries
